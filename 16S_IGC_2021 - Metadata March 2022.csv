@@ -1,0 +1,46 @@
+sample-id,condition,patient codes,gender,ethnicity,age_2_categories,age_5_categories,age_diagnosis_2_categories,age_diagnosis_5_categories,time_since_diagnosis_2_categories,time_since_diagnosis_5_categories,lupus_nephritis,SLEDAI-2K,GLP-1,sCD14,IFABP,Zonulin_05,Zonulin_1,physical_activity_IPAQ,sitting_time_2_categories,sitting_time_4_categories,mediterranean_diet_2_categories,mediterranean_diet_3_categories,bristol_scale,Fasting,Sleep,fat_mass_bodpod,fat_mass_BIA,waist_circumference,BMI,waist_to_hip,hip_to_hight
+C1,Sick,C1-CC,0,1,1,2,1,2,1,1,0,Missing,1,2,4,1,3,2,2,3,1,2,3,2,2,5,4,1,1,,1
+C11,Healthy,C11_JS,0,1,2,3,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2,Missing,4,1,3,2,1,1,2,3,2,2,2,Missing,Missing,Missing,Missing,Missing,Missing
+C12,Healthy,C12_PL,1,1,2,3,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Missing,Missing,4,Missing,Missing,1,2,3,2,3,4,1,1,3,3,1,1,1,1
+C13,Healthy,C13_DA,0,1,2,3,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Missing,Missing,2,Missing,Missing,3,2,3,1,2,4,1,1,4,4,1,0,1,1
+C14,Healthy,C14_JF,0,1,2,3,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Missing,Missing,2,Missing,Missing,2,2,3,1,2,4,1,2,2,3,1,1,1,1
+C15,Healthy,C15_DF,0,1,2,3,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Missing,Missing,1,Missing,Missing,2,2,4,1,2,4,2,1,2,3,1,1,1,1
+C2,Healthy,C2-DR,0,1,2,3,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2,1,1,1,3,2,1,1,1,2,4,1,1,4,4,1,1,Missing,1
+C3,Healthy,C3-MLR,0,1,2,3,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,1,2,2,1,3,3,1,1,1,2,4,1,1,2,1,2,2,1,2
+C5,Healthy,C5_AB,0,1,2,3,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,1,1,3,1,3,1,1,1,2,3,4,2,2,3,3,1,1,1,1
+C6,Healthy,C6_JG,0,1,2,3,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,1,1,2,1,3,1,1,2,2,3,4,2,1,3,2,1,1,1,1
+C7,Healthy,C7_IC,0,1,2,3,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,1,1,2,1,3,1,1,1,2,3,4,1,1,4,4,1,0,1,1
+C8,Healthy,C8_EC,0,1,2,3,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,1,1,1,1,3,2,1,1,2,3,4,2,2,2,3,1,2,1,1
+C9,Healthy,C9_BC,1,1,2,3,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,1,Missing,3,1,3,2,2,3,1,1,4,1,1,2,2,1,1,1,1
+L1,Sick,L1-BN,1,1,2,3,Missing,Missing,2,3,0,3,1,3,1,1,3,2,2,4,1,2,Missing,2,2,3,3,2,1,Missing,2
+L10,Sick,L10-SA,0,2,2,3,2,3,1,2,1,1,2,4,1,2,4,2,2,4,1,1,3,1,1,4,3,1,1,1,1
+L11,Sick,L11-MS,0,4,1,2,1,2,2,3,0,2,2,3,4,2,4,2,2,4,1,2,4,1,2,3,3,1,1,Missing,1
+L12,Sick,L12_CE,0,1,2,3,2,3,2,5,1,3,1,4,4,1,3,1,1,1,1,2,6,2,2,2,2,1,1,1,1
+L13,Sick,L13_CS,0,1,1,2,1,1,2,3,0,2,1,4,1,2,3,3,2,3,1,1,1,2,2,1,2,3,3,Missing,2
+L14,Sick,L14_PAJ,0,1,2,3,2,3,2,5,1,1,2,4,4,1,3,3,1,2,1,1,1,1,2,1,1,3,3,2,2
+L15,Sick,L15_JR,0,3,2,3,2,3,2,3,1,3,1,3,3,1,3,3,2,3,1,2,7,2,2,4,4,1,1,1,1
+L16,Sick,L16_SC,0,1,2,3,2,3,2,3,1,2,1,1,1,2,3,2,2,3,1,1,3,1,1,2,2,3,2,1,2
+L17,Sick,L17_BB,0,6,2,3,1,1,2,5,1,2,2,2,1,2,3,2,2,4,1,1,4,1,1,1,2,3,2,1,2
+L18,Sick,L18_CP,0,1,2,3,2,3,2,4,1,3,2,4,4,1,3,3,2,4,1,2,4,1,1,2,3,2,1,2,2
+L19,Sick,L19_IM,0,1,2,3,1,1,2,5,1,1,2,Missing,4,2,4,3,1,2,1,1,3,1,2,1,1,3,3,2,2
+L2,Sick,L2-FV,1,1,1,2,1,2,2,3,1,3,2,2,2,1,3,2,2,4,1,2,1,1,1,2,2,2,1,Missing,2
+L20,Sick,L20_AMS,0,1,1,1,1,1,1,1,0,3,2,2,2,Missing,Missing,Missing,Missing,Missing,2,3,4,2,2,2,3,3,3,Missing,2
+L21,Sick,L21_AJM,1,1,2,3,2,3,2,4,1,3,2,4,3,2,4,2,1,2,1,1,6,1,2,Missing,Missing,1,1,1,1
+L22,Sick,L22-NS,1,3,2,3,2,3,2,4,0,2,1,3,3,1,3,3,1,2,1,1,6,2,1,Missing,Missing,1,1,1,1
+L23,Sick,L23-ST,0,1,2,3,2,3,2,5,0,1,2,2,1,2,4,3,2,3,1,1,4,1,2,Missing,1,2,2,1,2
+L24,Sick,L24_LM,0,3,2,3,1,2,2,5,1,3,Missing,Missing,4,Missing,Missing,3,2,4,1,1,1,2,2,2,4,1,1,1,1
+L27,Sick,L27_TF,0,1,2,3,Missing,Missing,Missing,Missing,0,3,1,3,2,2,3,1,1,1,1,2,2,1,1,3,3,1,1,1,1
+L3,Sick,L3-IS,0,1,2,3,Missing,Missing,2,3,1,2,1,3,2,Missing,Missing,1,1,2,2,3,4,1,2,5,4,1,1,Missing,2
+L31,Sick,L31_NA,1,1,2,3,2,3,2,5,1,2,2,Missing,4,2,4,1,1,2,1,1,6,1,2,1,1,2,2,2,2
+L32,Sick,L32-DV,0,1,1,2,1,1,1,2,1,1,1,Missing,3,1,3,Missing,Missing,Missing,2,3,3,2,2,4,4,1,1,Missing,1
+L35,Sick,L32-DV,0,1,1,2,1,1,2,5,1,3,2,4,4,2,4,1,1,1,1,2,5,Missing,Missing,3,2,1,1,1,1
+L36,Sick,L36_AT,0,6,2,3,2,3,2,5,0,3,2,3,1,1,3,2,1,1,1,1,3,1,1,1,1,2,1,1,1
+L37,Sick,L37_MJM,0,6,2,3,2,3,2,5,0,4,Missing,4,3,1,3,3,1,2,1,1,5,2,2,1,1,3,3,2,2
+L39,Sick,L39_LC,0,3,2,3,Missing,Missing,2,5,1,3,Missing,Missing,1,Missing,Missing,3,2,4,1,1,2,2,2,2,4,1,1,1,1
+L4,Sick,L4-LC,0,1,1,2,1,2,1,1,1,1,2,1,2,1,3,2,2,4,1,2,4,2,2,2,2,2,2,Missing,2
+L42,Sick,L42_RM,0,1,2,3,2,3,2,5,0,3,Missing,Missing,1,Missing,Missing,3,2,3,1,1,3,2,2,1,1,3,2,2,2
+L5,Sick,L5-MC,0,1,1,2,1,1,2,3,1,2,1,1,2,1,3,2,2,3,1,2,2,2,2,3,4,1,1,Missing,1
+L6,Sick,L6-CR,0,1,2,3,Missing,Missing,Missing,Missing,Missing,3,1,2,3,1,3,2,2,3,1,2,3,2,2,2,2,1,1,1,1
+L7,Sick,L7-AA,0,1,2,3,2,3,2,3,1,1,1,3,4,2,4,2,1,1,1,1,3,1,1,3,4,1,1,1,1
+L8,Sick,L8-MM,0,1,1,1,1,1,1,1,1,1,2,2,3,1,3,Missing,Missing,Missing,2,3,3,2,2,2,4,2,2,Missing,1
+Controlo,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control,Control
